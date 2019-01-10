@@ -2,6 +2,9 @@
 Kubernetes in the Google Cloud <br>
 qwiklabs url: http://bit.ly/2TyWkp4
 
+<img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width=150 height=150>
+<img src="https://github.com/kubernetes/kubernetes/blob/master/logo/name_blue.svg" width=160 height=24>
+
 ## Quest Outline
 1. Introduction to Docker
 2. Hello Node Kubernetes
